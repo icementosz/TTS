@@ -1,0 +1,14 @@
+python -m venv env
+env\Scripts\activate
+
+pip install SpeechRecognition
+pip install gTTS
+pip install pyaudio
+pip install playsound
+
+
+
+# script with env #
+cd env
+Scripts\activate
+cd ..
